@@ -44,14 +44,16 @@ So data is preserved even after the program closes.
 ## 📂 Project Structure
 CITY-LIBRARY-DIGITAL-MANAGEMENT-SYSTEM/
 │── Book.java
+
 │── Member.java
+
 │── LibraryManager.java
+
 │── Main.java
+
 │── books.dat 
+
 │── members.dat
-
----
-
 
 ---
 
